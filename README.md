@@ -6,7 +6,6 @@ Diese werden in Docker Containern deployed und über einen reverse proxy einer U
 Bei Fragen gerne mailen.
 
 
-
 > Copyright 2018  
 > Adrian Beckmann, Denis Paris, Dominic Claßen,  
 > Jan Wystub, Manuel Eder, René Heinen, René Neißer.
